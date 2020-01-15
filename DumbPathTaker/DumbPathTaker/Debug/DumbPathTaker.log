@@ -1,0 +1,3 @@
+﻿  DumbPathTaker.cpp
+C:\Users\MarnenCaes\source\repos\DumbPathTaker\DumbPathTaker\DumbPathTaker.cpp(136): warning C4715: 'MovePlayer' : les chemins de contrôle ne retournent pas tous une valeur
+  DumbPathTaker.vcxproj -> C:\Users\MarnenCaes\source\repos\DumbPathTaker\Debug\DumbPathTaker.exe
